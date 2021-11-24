@@ -1,0 +1,29 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "adc586d4-a306-ce04-7a4f-c2ebe1bf1197"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced Data Structures",
+  "course_description": "Data structures play a central role in modern computer science. You interact with data structures even more often than with algorithms (think Google, your mail server, and even your network routers). In addition, data structures are essential building blocks in obtaining efficient algorithms. This course covers major results and current directions of research in data structure.\n\nAcknowledgments\n---------------\n\nThanks to videographers Martin Demaine and Justin Zhang.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.851",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
